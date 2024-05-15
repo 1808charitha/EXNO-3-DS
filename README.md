@@ -53,29 +53,7 @@ We use this categorical data encoding technique when the features are nominal(do
 <img width="954" alt="image" src="https://github.com/1808charitha/EXNO-3-DS/assets/132996838/eaf038bf-5e88-4fcc-998b-eb026ca7f73c">
 <img width="956" alt="image" src="https://github.com/1808charitha/EXNO-3-DS/assets/132996838/3178c637-80b5-41aa-bcd6-59adeeeaf78e">
 <img width="950" alt="image" src="https://github.com/1808charitha/EXNO-3-DS/assets/132996838/ae106aea-a88c-4bb6-b2be-f55ed6de18d9">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # RESULT:
-          Hence performing Feature Encoding and Transformation process is Successful.
+Hence performing Feature Encoding and Transformation process is Successful.
        
